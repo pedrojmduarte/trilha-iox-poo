@@ -1,0 +1,13 @@
+C:\Users\pedro\source\repos\LogicaProgamacao\LogicaProgamacao\bin\Debug\netcoreapp3.1\LogicaProgamacao.exe
+C:\Users\pedro\source\repos\LogicaProgamacao\LogicaProgamacao\bin\Debug\netcoreapp3.1\LogicaProgamacao.deps.json
+C:\Users\pedro\source\repos\LogicaProgamacao\LogicaProgamacao\bin\Debug\netcoreapp3.1\LogicaProgamacao.runtimeconfig.json
+C:\Users\pedro\source\repos\LogicaProgamacao\LogicaProgamacao\bin\Debug\netcoreapp3.1\LogicaProgamacao.runtimeconfig.dev.json
+C:\Users\pedro\source\repos\LogicaProgamacao\LogicaProgamacao\bin\Debug\netcoreapp3.1\LogicaProgamacao.dll
+C:\Users\pedro\source\repos\LogicaProgamacao\LogicaProgamacao\bin\Debug\netcoreapp3.1\LogicaProgamacao.pdb
+C:\Users\pedro\source\repos\LogicaProgamacao\LogicaProgamacao\obj\Debug\netcoreapp3.1\LogicaProgamacao.csprojAssemblyReference.cache
+C:\Users\pedro\source\repos\LogicaProgamacao\LogicaProgamacao\obj\Debug\netcoreapp3.1\LogicaProgamacao.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\LogicaProgamacao\LogicaProgamacao\obj\Debug\netcoreapp3.1\LogicaProgamacao.AssemblyInfo.cs
+C:\Users\pedro\source\repos\LogicaProgamacao\LogicaProgamacao\obj\Debug\netcoreapp3.1\LogicaProgamacao.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\LogicaProgamacao\LogicaProgamacao\obj\Debug\netcoreapp3.1\LogicaProgamacao.dll
+C:\Users\pedro\source\repos\LogicaProgamacao\LogicaProgamacao\obj\Debug\netcoreapp3.1\LogicaProgamacao.pdb
+C:\Users\pedro\source\repos\LogicaProgamacao\LogicaProgamacao\obj\Debug\netcoreapp3.1\LogicaProgamacao.genruntimeconfig.cache

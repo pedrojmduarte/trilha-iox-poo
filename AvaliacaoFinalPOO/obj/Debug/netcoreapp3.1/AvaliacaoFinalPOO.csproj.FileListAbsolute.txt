@@ -1,0 +1,13 @@
+C:\Users\pedro\source\repos\LogicaProgamacao\AvaliacaoFinalPOO\bin\Debug\netcoreapp3.1\AvaliacaoFinalPOO.exe
+C:\Users\pedro\source\repos\LogicaProgamacao\AvaliacaoFinalPOO\bin\Debug\netcoreapp3.1\AvaliacaoFinalPOO.deps.json
+C:\Users\pedro\source\repos\LogicaProgamacao\AvaliacaoFinalPOO\bin\Debug\netcoreapp3.1\AvaliacaoFinalPOO.runtimeconfig.json
+C:\Users\pedro\source\repos\LogicaProgamacao\AvaliacaoFinalPOO\bin\Debug\netcoreapp3.1\AvaliacaoFinalPOO.runtimeconfig.dev.json
+C:\Users\pedro\source\repos\LogicaProgamacao\AvaliacaoFinalPOO\bin\Debug\netcoreapp3.1\AvaliacaoFinalPOO.dll
+C:\Users\pedro\source\repos\LogicaProgamacao\AvaliacaoFinalPOO\bin\Debug\netcoreapp3.1\AvaliacaoFinalPOO.pdb
+C:\Users\pedro\source\repos\LogicaProgamacao\AvaliacaoFinalPOO\obj\Debug\netcoreapp3.1\AvaliacaoFinalPOO.csprojAssemblyReference.cache
+C:\Users\pedro\source\repos\LogicaProgamacao\AvaliacaoFinalPOO\obj\Debug\netcoreapp3.1\AvaliacaoFinalPOO.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\LogicaProgamacao\AvaliacaoFinalPOO\obj\Debug\netcoreapp3.1\AvaliacaoFinalPOO.AssemblyInfo.cs
+C:\Users\pedro\source\repos\LogicaProgamacao\AvaliacaoFinalPOO\obj\Debug\netcoreapp3.1\AvaliacaoFinalPOO.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\LogicaProgamacao\AvaliacaoFinalPOO\obj\Debug\netcoreapp3.1\AvaliacaoFinalPOO.dll
+C:\Users\pedro\source\repos\LogicaProgamacao\AvaliacaoFinalPOO\obj\Debug\netcoreapp3.1\AvaliacaoFinalPOO.pdb
+C:\Users\pedro\source\repos\LogicaProgamacao\AvaliacaoFinalPOO\obj\Debug\netcoreapp3.1\AvaliacaoFinalPOO.genruntimeconfig.cache
